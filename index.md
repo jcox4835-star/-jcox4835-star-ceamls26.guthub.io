@@ -12,7 +12,7 @@ quick_facts:
   - "📍 Based in Greensboro, NC"
   - "🚀 I enjoy watching basketball"
 
-linkedin: https://https://www.linkedin.com/in/jonathan-cox-b333a4356?utm_source=share_via&utm_content=profile&utm_medium=member_ios
+linkedin: https://www.linkedin.com/in/jonathan-cox-b333a4356/
 image: assets/images/Professional Headshot.jfif
 
 # A "Currently" block — three short status lines for the home page.
