@@ -4,7 +4,7 @@ title: About My Project
 permalink: /about-my-project.html
 
 subtitle: Human-Computer Interaction & Adaptive Systems
-project_title: "My Summer Research Project"
+project_title: "AI-Driven Discovery of Drug Candidate Compounds to Slow Cognitive Decline in Alzheimer’s Disease"
 
 problem: |
   Briefly describe the problem your project tackles. Who is affected? Why does this
@@ -31,10 +31,10 @@ outcome: |
 final_report_url: https://example.com/your-report.pdf
 
 grad_mentor:
-  name: Alex Morgan
+  name: Ramisa Fahra
   linkedin: https://www.linkedin.com/in/example
 
 faculty_mentor:
-  name: Dr. Pat Nguyen
+  name: Dr. Roshan Paudel
   linkedin: https://www.linkedin.com/in/example
 ---
