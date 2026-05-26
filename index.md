@@ -1,18 +1,18 @@
 ---
 layout: home
 title: Home
-display_name: Clyde Tandjong                  # <- shown as the big display name on the hero
+display_name: Jonathan Cox               
 description: My CEAMLS SAIRI Summer Research Site
 
 motto: "Curious about how research can shape better tools for everyday life."
 
 quick_facts:
-  - "🎓 Junior, Computer Science"
-  - "🔬 Interested in Quantum Physics"
-  - "📍 Based in Baltimore, MD"
-  - "🚀 I like pineapples"
+  - "🎓 Sophomore, Industrial and Systems Engineering"
+  - "🔬 Interested in Systems Opperations"
+  - "📍 Based in Greensboro, NC"
+  - "🚀 I enjoy watching basketball"
 
-linkedin: https://www.linkedin.com/in/example
+linkedin: https://https://www.linkedin.com/in/jonathan-cox-b333a4356?utm_source=share_via&utm_content=profile&utm_medium=member_ios
 image: /assets/images/profile.svg
 
 # A "Currently" block — three short status lines for the home page.
