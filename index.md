@@ -13,7 +13,7 @@ quick_facts:
   - "🚀 I enjoy watching basketball"
 
 linkedin: https://https://www.linkedin.com/in/jonathan-cox-b333a4356?utm_source=share_via&utm_content=profile&utm_medium=member_ios
-image: /assets/images/profile.svg
+image: assets/images/Professional Headshot.jfif
 
 # A "Currently" block — three short status lines for the home page.
 currently:
