@@ -4,11 +4,11 @@
 # =====================================================
 
 # ----- Identity (shown in SEO + browser tab) -----
-title: Your Name Here                              # <- your name
-author: Jonathan Cox                           # <- your name (shown as post byline)
-description: My CEAMLS SAIRI Summer Research Site  # <- short site tagline
-email:                                             # <- (optional) contact email for SEO
-url: https://jcox4835-star-ceamls.github.io               # <- your final site URL (canonical SEO links)
+title: Jonathan Cox                            
+author: Jonathan Cox                           
+description: My CEAMLS SAIRI Summer Research Site  
+email: jcox4835@gmail.com
+url: https://jcox4835-star-ceamls.github.io               
 lang: en-US
 
 # ----- Branding (program-wide; rarely changes) -----
