@@ -25,7 +25,7 @@ about:
       description: Building cardio is essential for a weekend reset.
     - icon: 📚
       title: Watching
-      description: Comic book movies help me relax during my spare time
+      description: Comic book movies help me relax during my spare time.
 
   gallery:
     - image: /assets/images/gallery-1.svg
