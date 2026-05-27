@@ -4,30 +4,28 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Clyde Tandjong
-  role: Junior, Computer Science
+  name: Jonathan Cox
+  role: Sophomore, Industrial and Systems Engineering
   image: /assets/images/profile.svg
   linkedin: https://www.linkedin.com/in/example
   bio: |
-    Hi! I'm Clyde, a Computer Science student in the CEAMLS SAIRI Summer Research program.
+    Hi! I'm Jonathan, a Industrial and Systems Engineering student in the CEAMLS SAIRI Summer Research program.
 
-    My research interests sit at the intersection of human-computer interaction and applied
-    machine learning. I'm especially curious about how everyday tools can be made more
-    accessible and adaptive through smart software.
+    My research interests sit at the intersection of artificial intelligence, healthcare, and applied machine learning. I am especially interested in developing explainable and data-driven AI systems that can support biomedical discovery and improve clinical decision-making. My current research focuses on AI-driven approaches for Alzheimer’s disease research, including the discovery of drug candidate compounds, explainable AI for MRI-based diagnosis, and the use of multimodal and longitudinal healthcare data to build more transparent and clinically meaningful machine learning models.
 
-    Outside of class, you'll find me biking trails, learning languages, or working on small
-    side projects with friends.
+    Outside of class, you'll find me playing basketball, learning languages, or networking
+    with my peers to build great connections.
 
   hobbies:
     - icon: 🎨
-      title: Digital Art
-      description: I make small illustrations and pixel art in my spare time.
+      title: Mini Projects
+      description: I work on editing and other streaming services outside of academics.
     - icon: 🚲
       title: Biking
-      description: Weekend trail rides are how I reset.
+      description: Building cardio is essential for a weekend reset.
     - icon: 📚
-      title: Reading
-      description: Sci-fi novels and design essays — both equally inspiring.
+      title: Watching
+      description: Comic book movies help me relax during my spare time
 
   gallery:
     - image: /assets/images/gallery-1.svg
