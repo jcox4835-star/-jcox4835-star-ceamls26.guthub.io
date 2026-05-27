@@ -6,7 +6,7 @@ permalink: /about-my-project.html
 subtitle: Applying Machine Learning to Alzheimer’s Disease Research
 project_title: "AI-Driven Discovery of Drug Candidate Compounds to Slow Cognitive Decline in Alzheimer’s Disease"
 
-problem: |
+problem: 
   Alzheimer’s Disease affects millions of people worldwide and is one of the leading causes of cognitive decline in older adults. As the disease progresses, patients experience memory loss, reduced problem-solving ability, and difficulty performing everyday tasks. Families, caregivers, and healthcare systems are also heavily impacted by the emotional and financial burden associated with long-term care. Although current treatments may temporarily reduce symptoms, there is still no widely effective cure that can stop or significantly slow disease progression.
 One major challenge in Alzheimer’s research is the lengthy and expensive process of discovering new drug compounds. Traditional drug discovery methods require years of laboratory testing and clinical validation, which limits the speed at which new therapies can reach patients. This project addresses that gap by exploring how artificial intelligence and machine learning can accelerate the identification of promising drug candidate compounds that may help slow cognitive decline in Alzheimer’s patients. By combining biomedical datasets with AI-driven analysis, the project aims to support faster and more efficient therapeutic discovery.
 approach: |
