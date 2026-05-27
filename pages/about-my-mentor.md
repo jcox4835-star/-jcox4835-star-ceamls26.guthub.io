@@ -21,5 +21,5 @@ faculty_mentor:
   bio: |
    Professor Roshan Paudel, Ph.D., is a Computer Science faculty member with extensive experience in computer science education, curriculum development, and student mentorship. His work focuses on artificial intelligence, machine learning, and interdisciplinary biomedical research, with an emphasis on advancing impactful and equitable AI applications.
 
-Dr. Paudel has also contributed to the CEAMLS Summer AI Research Institute (SAIRI) for the past four years, mentoring student researchers and supporting collaborative AI-driven research initiatives focused on healthcare innovation and biomedical discovery.
+   Dr. Paudel has also contributed to the CEAMLS Summer AI Research Institute (SAIRI) for the past four years, mentoring student researchers and supporting collaborative AI-driven research initiatives focused on healthcare innovation and biomedical discovery.
 ---
