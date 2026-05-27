@@ -15,14 +15,11 @@ graduate_mentor:
 
 faculty_mentor:
   name: Dr. Roshan Paudel
-  title: Associate Professor, School of Engineering
+  title: Professor of Practice, School of Computer, Mathematical and Natural Sciences
   image: /assets/images/faculty-mentor.svg
   website: https://example.com/pat-nguyen
   bio: |
-    Dr. Paudel leads a research group focused on human-centered computing and
-    accessibility. Their guidance has helped me sharpen my research questions and
-    think more carefully about real-world impact.
+   Professor Roshan Paudel, Ph.D., is a Computer Science faculty member with extensive experience in computer science education, curriculum development, and student mentorship. His work focuses on artificial intelligence, machine learning, and interdisciplinary biomedical research, with an emphasis on advancing impactful and equitable AI applications.
 
-    Dr. Paudel has mentored many SAIRI students and is a champion for broadening
-    participation in computing.
+Dr. Paudel has also contributed to the CEAMLS Summer AI Research Institute (SAIRI) for the past four years, mentoring student researchers and supporting collaborative AI-driven research initiatives focused on healthcare innovation and biomedical discovery.
 ---
