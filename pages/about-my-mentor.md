@@ -5,16 +5,13 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Ramisa Fahra
-  title: PhD Candidate, Computer Engineering
+  title: PhD Student , Advanced and Equitable Computing
   image: /assets/images/graduate-student-mentor.svg
   website: https://example.com/alex-morgan
   bio: |
-    Ramisa is a PhD candidate working on adaptive systems and embedded machine learning.
-    They've been an incredible mentor — patient with my questions and great at helping
-    me connect ideas across disciplines.
+    Ramos Fahra is a Teaching Assistant and Research Assistant with interests in artificial intelligence, biomedical research, and healthcare applications of machine learning. Her work focuses on advancing equitable and explainable AI systems, particularly in areas related to neurodegenerative diseases and translational research.
 
-    Outside of research, Ramisa organizes weekly reading groups and is a strong advocate
-    for undergraduate research participation.
+    Her recent publication, “Counterfactual, Longitudinal, and Multimodal Explainable AI for MRI-Based Alzheimer’s Diagnosis: A Structured Review,” explores how explainable AI can improve transparency and clinical trust in Alzheimer’s diagnosis. The paper highlights the role of multimodal and longitudinal AI approaches in developing more interpretable and clinically meaningful healthcare systems.
 
 faculty_mentor:
   name: Dr. Roshan Paudel
