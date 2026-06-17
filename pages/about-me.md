@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Jonathan Cox
   role: Sophomore, Industrial and Systems Engineering
-  image: /assets/73494.jpg
+  image: /assets/17301.jpg
   linkedin: https://www.linkedin.com/in/jonathan-cox-b333a4356?utm_source=share_via&utm_content=profile&utm_medium=member_ios
   bio: |
     Hi! I'm Jonathan, a Industrial and Systems Engineering student in the CEAMLS SAIRI Summer Research Program.
