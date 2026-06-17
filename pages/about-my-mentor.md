@@ -5,11 +5,11 @@ permalink: /about-my-mentor.html
 
 graduate_mentor:
   name: Ramisa Fahra
-  title: PhD Student , Advanced and Equitable Computing
+  title: Graduate Student , Advanced and Equitable Computing
   image: /assets/IMG_5056.jpeg
   website: https://scholar.google.com/citations?user=3LCaOVAAAAAJ&hl=en
   bio: |
-    Ramos Fahra is a Teaching Assistant and Research Assistant with interests in artificial intelligence, biomedical research, and healthcare applications of machine learning. Her work focuses on advancing equitable and explainable AI systems, particularly in areas related to neurodegenerative diseases and translational research.
+    Ramisa Fahra is a Teaching Assistant and Research Assistant with interests in artificial intelligence, biomedical research, and healthcare applications of machine learning. Her work focuses on advancing equitable and explainable AI systems, particularly in areas related to neurodegenerative diseases and translational research.
 
     Her recent publication, “Counterfactual, Longitudinal, and Multimodal Explainable AI for MRI-Based Alzheimer’s Diagnosis: A Structured Review,” explores how explainable AI can improve transparency and clinical trust in Alzheimer’s diagnosis. The paper highlights the role of multimodal and longitudinal AI approaches in developing more interpretable and clinically meaningful healthcare systems.
 
