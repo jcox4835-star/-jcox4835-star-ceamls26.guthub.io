@@ -7,7 +7,7 @@ graduate_mentor:
   name: Ramisa Fahra
   title: PhD Student , Advanced and Equitable Computing
   image: /assets/IMG_5056.jpeg
-  website: https://example.com/alex-morgan
+  website: https://scholar.google.com/citations?user=3LCaOVAAAAAJ&hl=en
   bio: |
     Ramos Fahra is a Teaching Assistant and Research Assistant with interests in artificial intelligence, biomedical research, and healthcare applications of machine learning. Her work focuses on advancing equitable and explainable AI systems, particularly in areas related to neurodegenerative diseases and translational research.
 
@@ -17,7 +17,7 @@ faculty_mentor:
   name: Dr. Roshan Paudel
   title: Professor of Practice, School of Computer, Mathematical and Natural Sciences
   image: /assets/IMG_1597.jpeg
-  website: https://example.com/pat-nguyen
+  website: https://www.morgan.edu/computer-science/faculty-and-staff/roshan-paudel
   bio: |
    Professor Roshan Paudel, Ph.D., is a Computer Science faculty member with extensive experience in computer science education, curriculum development, and student mentorship. His work focuses on artificial intelligence, machine learning, and interdisciplinary biomedical research, with an emphasis on advancing impactful and equitable AI applications.
 
