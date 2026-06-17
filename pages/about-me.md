@@ -29,9 +29,9 @@ about:
 
   gallery:
     - image: /assets/images/gallery-1.svg
-      caption: A great day on the trail.
+      caption: Networking With Peers
     - image: /assets/images/gallery-2.svg
-      caption: One of my recent illustrations.
+      caption: Exploring New Places
     - image: /assets/images/gallery-3.svg
-      caption: Hanging out with friends after class.
+      caption: Maximizing Time Management
 ---
