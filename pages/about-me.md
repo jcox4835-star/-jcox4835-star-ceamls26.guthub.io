@@ -28,10 +28,10 @@ about:
       description: Comic book movies help me relax during my spare time.
 
   gallery:
-    - image: /assets/images/gallery-1.svg
+    - image: /assets/IMG_1545.jpeg
       caption: Networking With Peers
-    - image: /assets/images/gallery-2.svg
+    - image: /assets/IMG_1500.jpeg
       caption: Exploring New Places
-    - image: /assets/images/gallery-3.svg
+    - image: /assets/IMG_1590.jpeg
       caption: Maximizing Time Management
 ---
