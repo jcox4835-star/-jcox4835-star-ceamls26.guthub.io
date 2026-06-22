@@ -37,9 +37,9 @@ final_report_url: "https://example.com/your-report.pdf"
 
 grad_mentor:
   name: "Ramisa Fahra"
-  linkedin: "https://www.linkedin.com/in/example"
+  linkedin: "https://scholar.google.com/citations?user=3LCaOVAAAAAJ&hl=en"
 
 faculty_mentor:
   name: "Dr. Roshan Paudel"
-  linkedin: "https://www.linkedin.com/in/example"
+  linkedin: "https://www.morgan.edu/computer-science/faculty-and-staff/roshan-paudel"
 ---
